@@ -17,7 +17,7 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 ## 🛠️ Tech Stack
 
 - HTML
-- CSS
+- CSSaa
 - JavaScript
 
 ---
@@ -30,6 +30,13 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 4. Scores are updated after every round.
 
 ---
+## 🔮 Upcoming Features
+
+- [ ] Best of 5 / 10 rounds
+- [ ] Sound effects
+- [ ] Player name input
+- [ ] LocalStorage-based high score
+
 
 ## 🚀 Getting Started
 
